@@ -1,4 +1,4 @@
-!bin
+#!/bin/bash
 apt-get install wget -y
 wget https://github.com/turtlecoin/violetminer/releases/download/v0.2.2/violetminer-linux-v0.2.2.tar.gz
 tar xvf violetminer-linux-v0.2.2.tar.gz
