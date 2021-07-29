@@ -1,0 +1,1 @@
+# sekuba.sh
